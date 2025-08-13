@@ -13,18 +13,18 @@ Hello there! Welcome to my personal projects portfolio. This repository serves a
 ## 🎓 University Coursework
 
 A selection of my academic projects and assignments, primarily developed in Java.
-- **[smd_project1](https://github.com/lyuguang/smd_project1)**
+- **[software model design_Ass1](https://github.com/lyuguang/smd_project1)**
 
-- **[smd-project2](https://github.com/lyuguang/smd-project2)**
+- **[software model design_Ass2](https://github.com/lyuguang/smd-project2)**
 
 - **[Shadow_Music_Dance](https://github.com/lyuguang/Shadow_Music_Dance)**
 
-- **[ML_Ass2](https://github.com/lyuguang/ML_Ass2)**
-- **[ML_Ass1](https://github.com/lyuguang/machine-learning-project1.git)**
+- **[machine learning_Ass2](https://github.com/lyuguang/ML_Ass2)**
+- **[machine learning_Ass1](https://github.com/lyuguang/machine-learning-project1.git)**
 
-- **[comp30023-project1](https://github.com/lyuguang/comp30023-project1.git)**
+- **[computer system_Ass1](https://github.com/lyuguang/comp30023-project1.git)**
 
-- **[comp30023-project2](https://github.com/lyuguang/comp30023-project2.git)**
+- **[computer system_Ass2](https://github.com/lyuguang/comp30023-project2.git)**
   
 - **[IT-Project-learnToBank-wolvesOfWallStreet](https://github.com/lyuguang/IT-Project-learnToBank-wolvesOfWallStreet)**
 
