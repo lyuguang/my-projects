@@ -27,6 +27,8 @@ A selection of my academic projects and assignments, primarily developed in Java
   
 - **[IT-Project-learnToBank-wolvesOfWallStreet](https://github.com/lyuguang/IT-Project-learnToBank-wolvesOfWallStreet)**
 
+- **[web-proxy](https://github.com/lyuguang/web-proxy.git)**
+
 ---
 
 ## 🤖 AI, Machine Learning & Data Science
