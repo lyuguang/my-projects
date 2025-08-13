@@ -22,7 +22,7 @@ A selection of my academic projects and assignments, primarily developed in Java
 
 - **[ML_Ass2](https://github.com/lyuguang/ML_Ass2)** *A private machine learning assignment.* `(Jupyter Notebook)`
 
-- **[comp30023-prac-1](https://github.com/lyuguang/comp30023-prac-1)** *A private practical assignment for a university course.*
+- **[comp30023-project1](https://github.com/lyuguang/comp30023-project1.git)** *A private practical assignment for a university course.*
   
 - **[IT-Project-learnToBank-wolvesOfWallStreet](https://github.com/lyuguang/IT-Project-learnToBank-wolvesOfWallStreet)** *A forked team project for a university course.* `(TypeScript)`
 
