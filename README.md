@@ -13,10 +13,9 @@ Hello there! Welcome to my personal projects portfolio. This repository serves a
 ## 🎓 University Coursework
 
 A selection of my academic projects and assignments, primarily developed in Java.
+- **[smd_project1](https://github.com/lyuguang/smd_project1)** *Private university project.* `(Java)`
 
 - **[smd-project2](https://github.com/lyuguang/smd-project2)** *Private university project.* `(Java)`
-
-- **[S2_Project1](https://github.com/lyuguang/smd_project1)** *Private university project.* `(Java)`
 
 - **[Shadow_Music_Dance](https://github.com/lyuguang/Shadow_Music_Dance)** *A public project developed in Java.*
 
