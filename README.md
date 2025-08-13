@@ -16,7 +16,7 @@ A selection of my academic projects and assignments, primarily developed in Java
 
 - **[smd-project2](https://github.com/lyuguang/smd-project2)** *Private university project.* `(Java)`
 
-- **[S2_Project1](https://github.com/lyuguang/S2_Project1)** *Private university project.* `(Java)`
+- **[S2_Project1](https://github.com/lyuguang/smd_project1)** *Private university project.* `(Java)`
 
 - **[Shadow_Music_Dance](https://github.com/lyuguang/Shadow_Music_Dance)** *A public project developed in Java.*
 
