@@ -20,6 +20,7 @@ A selection of my academic projects and assignments, primarily developed in Java
 - **[Shadow_Music_Dance](https://github.com/lyuguang/Shadow_Music_Dance)**
 
 - **[ML_Ass2](https://github.com/lyuguang/ML_Ass2)**
+- **[ML_Ass1](https://github.com/lyuguang/machine-learning-project1.git)**
 
 - **[comp30023-project1](https://github.com/lyuguang/comp30023-project1.git)**
 
