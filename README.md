@@ -13,19 +13,19 @@ Hello there! Welcome to my personal projects portfolio. This repository serves a
 ## 🎓 University Coursework
 
 A selection of my academic projects and assignments, primarily developed in Java.
-- **[smd_project1](https://github.com/lyuguang/smd_project1)** *Private university project.* `(Java)`
+- **[smd_project1](https://github.com/lyuguang/smd_project1)**
 
-- **[smd-project2](https://github.com/lyuguang/smd-project2)** *Private university project.* `(Java)`
+- **[smd-project2](https://github.com/lyuguang/smd-project2)**
 
-- **[Shadow_Music_Dance](https://github.com/lyuguang/Shadow_Music_Dance)** *A public project developed in Java.*
+- **[Shadow_Music_Dance](https://github.com/lyuguang/Shadow_Music_Dance)**
 
-- **[ML_Ass2](https://github.com/lyuguang/ML_Ass2)** *A private machine learning assignment.* `(Jupyter Notebook)`
+- **[ML_Ass2](https://github.com/lyuguang/ML_Ass2)**
 
-- **[comp30023-project1](https://github.com/lyuguang/comp30023-project1.git)** *An assignment for a university course.*
+- **[comp30023-project1](https://github.com/lyuguang/comp30023-project1.git)**
 
-- **[comp30023-project2](https://github.com/lyuguang/comp30023-project2.git)** *An assignment for a university course.*
+- **[comp30023-project2](https://github.com/lyuguang/comp30023-project2.git)**
   
-- **[IT-Project-learnToBank-wolvesOfWallStreet](https://github.com/lyuguang/IT-Project-learnToBank-wolvesOfWallStreet)** *A forked team project for a university course.* `(TypeScript)`
+- **[IT-Project-learnToBank-wolvesOfWallStreet](https://github.com/lyuguang/IT-Project-learnToBank-wolvesOfWallStreet)**
 
 ---
 
@@ -33,13 +33,13 @@ A selection of my academic projects and assignments, primarily developed in Java
 
 A collection of my projects and coursework in the field of artificial intelligence and data analysis.
 
-- **[FightingGame-FTG4.50](https://github.com/lyuguang/FightingGame-FTG4.50)** *A fighting game project based on reinforcement learning for a university course.* `(Python)`
+- **[FightingGame-FTG4.50](https://github.com/lyuguang/FightingGame-FTG4.50)**
 
-- **[SOLT](https://github.com/lyuguang/SOLT)** *A forked project - The Stochastic Optimization Learning Tool.* `(Jupyter Notebook)`
+- **[SOLT](https://github.com/lyuguang/SOLT)**
 
-- **[AI-For-Beginners](https://github.com/lyuguang/AI-For-Beginners)** *Forked from Microsoft's comprehensive 12-week, 24-lesson AI curriculum.*
+- **[AI-For-Beginners](https://github.com/lyuguang/AI-For-Beginners)**
 
-- **[DataAnalysis](https://github.com/lyuguang/DataAnalysis)** *Forked materials and resources for a Python data analysis tutorial.* `(Python)`
+- **[DataAnalysis](https://github.com/lyuguang/DataAnalysis)**
 
 ---
 
@@ -47,12 +47,12 @@ A collection of my projects and coursework in the field of artificial intelligen
 
 Projects related to web and mobile application development, exploring various frameworks and technologies.
 
-- **[WeMap](https://github.com/lyuguang/WeMap)** *A private Flutter map application integrated with Firebase.* `(Dart)`
+- **[WeMap](https://github.com/lyuguang/WeMap)**
 
-- **[time-calculator](https://github.com/lyuguang/time-calculator)** *An advanced time calculator built with Next.js.* `(TypeScript)`
+- **[time-calculator](https://github.com/lyuguang/time-calculator)**
 
-- **[Mapmap](https://github.com/lyuguang/Mapmap)** *A forked, privacy-friendly, and versatile online map based on OpenStreetMap.* `(TypeScript)`
+- **[Mapmap](https://github.com/lyuguang/Mapmap)**
 
-- **[ConnectMap](https://github.com/lyuguang/ConnectMap)** *A forked map tool with real-time collaboration features.* `(JavaScript)`
+- **[ConnectMap](https://github.com/lyuguang/ConnectMap)**
 
 ---
