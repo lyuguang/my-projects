@@ -59,3 +59,7 @@ Projects related to web and mobile application development, exploring various fr
 - **[ConnectMap](https://github.com/lyuguang/ConnectMap)**
 
 ---
+
+## 📚 Language Study
+My notes, code snippets, and small applications from the journey of learning different programming languages.
+
