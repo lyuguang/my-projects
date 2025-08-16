@@ -7,7 +7,7 @@ Hello there! Welcome to my personal projects portfolio. This repository serves a
 ## 🔧 My GitHub Profile & Configs
 
 - **[lyuguang](https://github.com/lyuguang/lyuguang)** *Configuration files for my special GitHub profile README.*
-
+- **[my blog](https://lucaslyu.dev)**
 ---
 
 ## 🎓 University Coursework
